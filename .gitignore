@@ -16,7 +16,7 @@ __pycache__/
 *.pyd
 
 # Model files
-*.pkl
+# *.pkl
 
  # Logs and datasets (optional if you don't want to track large files)
 # *.csv
