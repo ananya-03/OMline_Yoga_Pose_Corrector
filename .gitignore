@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# macOS-specific
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+*.pkl
+
+ # Logs and datasets (optional if you don't want to track large files)
+# *.csv
+# *.log
+
+# VSCode and other IDEs
+.vscode/
+.idea/
