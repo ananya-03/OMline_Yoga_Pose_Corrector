@@ -15,6 +15,19 @@ The OMline Yoga Pose Corrector is designed to:
 
 ---
 
+## 🎥 Demo 
+[![Watch Demo](OmlineApp.png)](https://youtu.be/M0b_KH5hETI)
+
+---
+## Screenshots 
+![App Screenshot](downdog.png)
+![App Screenshot](goddess.png)
+![App Screenshot](plank.png)
+![App Screenshot](tree.png)
+![App Screenshot](warriori2.png)
+
+---
+
 ## 🧱 Project Structure
 
 | File / Folder | Description |
